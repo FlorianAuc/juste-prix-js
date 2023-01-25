@@ -12,7 +12,8 @@ Make a "The Price is Right" with javascript
 
 **Image**:
 
-![project-8](https://user-images.githubusercontent.com/98493546/214554595-4d8c9c71-c0f8-449f-a399-a68d2d09bb9b.PNG)
+![project-8](https://user-images.githubusercontent.com/98493546/214556265-d322cb03-c5d7-4f2b-81ad-9ecac1877e32.PNG)
+
 
 
 
